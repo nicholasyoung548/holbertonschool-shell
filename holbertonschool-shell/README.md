@@ -1,1 +1,1 @@
-This is how we look at working directory paths
+readme for shell projects
